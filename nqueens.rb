@@ -1,4 +1,4 @@
-require './solver.rb'
+require_relative 'solver.rb'
 
 def main(argv)
   if argv.length < 2
